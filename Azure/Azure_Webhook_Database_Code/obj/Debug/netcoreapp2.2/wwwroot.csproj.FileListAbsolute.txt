@@ -1,0 +1,11 @@
+D:\home\site\wwwroot\bin\Debug\netcoreapp2.2\wwwroot.deps.json
+D:\home\site\wwwroot\bin\Debug\netcoreapp2.2\wwwroot.runtimeconfig.json
+D:\home\site\wwwroot\bin\Debug\netcoreapp2.2\wwwroot.runtimeconfig.dev.json
+D:\home\site\wwwroot\bin\Debug\netcoreapp2.2\wwwroot.dll
+D:\home\site\wwwroot\bin\Debug\netcoreapp2.2\wwwroot.pdb
+D:\home\site\wwwroot\obj\Debug\netcoreapp2.2\wwwroot.csprojAssemblyReference.cache
+D:\home\site\wwwroot\obj\Debug\netcoreapp2.2\wwwroot.csproj.CoreCompileInputs.cache
+D:\home\site\wwwroot\obj\Debug\netcoreapp2.2\wwwroot.AssemblyInfoInputs.cache
+D:\home\site\wwwroot\obj\Debug\netcoreapp2.2\wwwroot.AssemblyInfo.cs
+D:\home\site\wwwroot\obj\Debug\netcoreapp2.2\wwwroot.dll
+D:\home\site\wwwroot\obj\Debug\netcoreapp2.2\wwwroot.pdb

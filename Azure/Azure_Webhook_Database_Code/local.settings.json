@@ -1,0 +1,32 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "accountSid": "AC5851333b97187bdec928d8f0ad9d59d4",
+    "valid_key_names_2": "Date, Result",
+    "WEBSITE_SLOT_NAME": "Production",
+    "sqldb_connection": "Server=tcp:team12.database.windows.net,1433;Initial Catalog=AR Receptionist data;Persist Security Info=False;User ID=team12admin;Password=Adminteam12;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "authToken": "d4f12d28ddf7ec49d260283e32b16a3b",
+    "valid_key_names_1": "EventID, Data, Time, RoomNumber, StaffMember, EventTitle",
+    "valid_key_names_5": "PatientID, PatientFirstName, PatientLastName, PatientDOB, DoctorFirstName, DoctorLastName, AppointmentTime, CheckedIn, DoctorPhone",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "16.0.28729.10",
+    "valid_key_names_3": "About, History, StaffNumber, OpeningTimes, CEO",
+    "valid_key_names_6": "PrescriptionID, PatientID, DoctorID, MedicineName, HasBeenDelivered, ExpectedDate, PatientFirstName, PatientLastName, PatientDOB, DoctorFirstName, DoctorLastName, DoctorPhone",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "fa5984bd-9fff-48a8-8569-808da4289e04",
+    "default_number": "+447398986677",
+    "request_types": "staff, events, events, staff, info, library_events, library_events, library_info, library_books, , gp_appointments, gp_prescriptions, gp_appointments",
+    "valid_key_names_0": "EmailAddress, FirstName, LastName, PhoneExtension, RoomNumber, staffID, PhoneNumber",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storageaccountcomp09246;AccountKey=noJDjX3vtZ7WuxwKUfbGJJVzchPLb/D+Lwc5Fm7miRpz8XPRi0nnUpHT1MbO3nRdILLaVyoitKIytvPeRO9XYQ==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "watsoninterfacething8bd8",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountcomp09246;AccountKey=noJDjX3vtZ7WuxwKUfbGJJVzchPLb/D+Lwc5Fm7miRpz8XPRi0nnUpHT1MbO3nRdILLaVyoitKIytvPeRO9XYQ==;EndpointSuffix=core.windows.net",
+    "valid_key_names_rows": "5",
+    "WEBSITE_SITE_NAME": "WatsonInterfaceThing",
+    "valid_key_names_4": "BookID, Author, Title, Topic, Section",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout"
+  }
+}
