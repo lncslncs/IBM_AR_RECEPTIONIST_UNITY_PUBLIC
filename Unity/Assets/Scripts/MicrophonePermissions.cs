@@ -1,5 +1,5 @@
 ﻿// Request Microphone permission on android
-// UCL COMP0016 Team 12 Jan 2020; Written by Lilly Neubauer
+// UCL COMP0016 Team 12 Jan 2020; Written by Lilly Sinek
 //referencing Unity Manual example script for Android Mic permission https://docs.unity3d.com/Manual/android-RequestingPermissions.html
 
 

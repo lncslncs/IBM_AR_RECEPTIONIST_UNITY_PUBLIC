@@ -1,5 +1,5 @@
 ﻿// This script is run when the avatar is instantiated after the user points the camera at the trigger image
-// UCL COMP0016 Team 12 Jan 2020; Written by Lilly Neubauer
+// UCL COMP0016 Team 12 Jan 2020; Written by Lilly Sinek
 
 using System.Collections;
 using System.Collections.Generic;

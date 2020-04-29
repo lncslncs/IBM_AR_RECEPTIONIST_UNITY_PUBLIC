@@ -1,6 +1,6 @@
 ﻿// This script manages the logic of the main UI elements in the scene
 // These UI elements appear on startup and are implemented seperately from UI elements that are attached to the avatar
-// UCL COMP0016 Team 12 Jan 2020; Written by Lilly Neubauer
+// UCL COMP0016 Team 12 Jan 2020; Written by Lilly Sinek
 
 using System.Collections;
 using System.Collections.Generic;

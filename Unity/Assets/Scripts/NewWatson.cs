@@ -1,5 +1,5 @@
 ﻿// High level script for connecting AR Receiptionist to IBM Services
-// UCL COMP0016 Team 12 Jan 2020; Written by Lilly Neubauer
+// UCL COMP0016 Team 12 Jan 2020; Written by Lilly Sinek
 // Adapted from https://github.com/IBM/Watson-Unity-ARKit
 // Sections that were added and not taken from above code are marked "NEW"
 
